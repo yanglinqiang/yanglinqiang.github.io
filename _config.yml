@@ -1,0 +1,8 @@
+title: 木木-GitHub.io
+description: 木木
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
